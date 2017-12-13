@@ -10,7 +10,7 @@ Steps for Usage
 ```
 
 {
-	"input":"Exception"
+	"keyword":"Exception"
 }
 
 ```
