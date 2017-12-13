@@ -8,7 +8,7 @@ object SparkUtils {
     val session = SparkSession
       .builder
       .master("local")
-      .appName("NaiveBayesSentiment")
+      .appName("SparkLogAnalyzer")
       .getOrCreate()
 
     session
